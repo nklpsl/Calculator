@@ -11,7 +11,7 @@ function mult (factor1, factor2){
 }
 
 function division (dividend, divisor){
-    return dividend / divisorM
+    return dividend / divisor;
 }
 
 function expon (base, exponent) {
